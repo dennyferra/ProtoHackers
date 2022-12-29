@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProtoHackers", "ProtoHackers\ProtoHackers.csproj", "{A98CCEA9-57EA-4A43-9E34-A7D39646C74C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A98CCEA9-57EA-4A43-9E34-A7D39646C74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98CCEA9-57EA-4A43-9E34-A7D39646C74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98CCEA9-57EA-4A43-9E34-A7D39646C74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98CCEA9-57EA-4A43-9E34-A7D39646C74C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E13D0B1D-8235-49E4-8197-B8D02EEF551A}
+	EndGlobalSection
+EndGlobal
